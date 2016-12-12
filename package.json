@@ -1,0 +1,30 @@
+{
+  "name": "stylelint-mocha-formatter",
+  "version": "1.0.0",
+  "description": "stylelint mocha json formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "~4.2.6",
+    "npm": "~2.14.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hhru/stylelint-mocha-formatter.git"
+  },
+  "keywords": [
+    "mocha-format",
+    "stylelint",
+    "formatter",
+    "stylelint-formatter",
+    "stylelint-mocha-formatter"
+  ],
+  "author": "hhru <test1-m.kalashnik@hh.ru> (http://hh.ru)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hhru/stylelint-mocha-formatter/issues"
+  },
+  "homepage": "https://github.com/hhru/stylelint-mocha-formatter#readme"
+}

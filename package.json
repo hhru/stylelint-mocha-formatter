@@ -1,14 +1,10 @@
 {
   "name": "stylelint-mocha-formatter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stylelint mocha json formatter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "engines": {
-    "node": "~4.2.6",
-    "npm": "~2.14.12"
   },
   "repository": {
     "type": "git",
